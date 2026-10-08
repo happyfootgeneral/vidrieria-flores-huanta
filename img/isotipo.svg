@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-labelledby="t">
+<title id="t">Grupo Corporativo Flores S.A.C.</title>
+<!-- VERSIÓN DE TRABAJO: isotipo redibujado del letrero del local; reemplazar por el archivo oficial. -->
+<path fill="#6E7378" fill-rule="evenodd" d="M46.00 46.00h54.00v54.00h-54.00zM58.00 58.00v30.00h30.00v-30.00z"/>
+<path fill="#C8102E" fill-rule="evenodd" d="M0.00 0.00h74.00v74.00h-74.00zM12.00 12.00v50.00h50.00v-50.00z"/>
+<rect fill="#FFFFFF" x="43.80" y="62.00" width="16.40" height="12.00"/>
+<rect fill="#6E7378" x="46.00" y="61.99" width="12.00" height="12.02"/>
+<rect fill="#FFFFFF" x="62.00" y="43.80" width="12.00" height="16.40"/>
+<rect fill="#C8102E" x="62.00" y="43.79" width="12.00" height="16.42"/>
+</svg>
